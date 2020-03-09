@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Kefa-and-First-Steps {
+public class KefaAndFirstSteps {
     public static void main(String[] args) {
              int m;
         Scanner s = new Scanner(System.in);
